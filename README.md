@@ -8,8 +8,8 @@ Dr. Nelio Alves
 ## Lógica de Programação Algoritmos usando Java (iniciante)
 
 ## Algoritmos usando Java 
-- [ ] Conceitos de programação 
-- [ ] Introdução à linguagem Java
+- [x] Conceitos de programação 
+- [x] Introdução à linguagem Java
 - [ ] Estrutura sequencial
 - [ ] Estrutura condicional
 - [ ] Estruturas repetitivas
