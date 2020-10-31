@@ -11,8 +11,8 @@ Dr. Nelio Alves
 
 Algoritmos usando Java 
 ---|---
--[] Conceitos de programação |
--[] Estrutura sequencial
+-[]  | Conceitos de programação 
+-[] | Estrutura sequencial
 Estrutura condicional
 Estruturas repetitivas
 Introdução à linguagem Java
