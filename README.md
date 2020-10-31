@@ -9,9 +9,9 @@ Dr. Nelio Alves
 
 ### Algoritmos usando Java (iniciante)
 
-Algoritmos usando Java | Matéria"
+Algoritmos usando Java 
 ---|---
-1 | Conceitos de programação |
+- [] Conceitos de programação |
 2 |Estrutura sequencial
 Estrutura condicional
 Estruturas repetitivas
