@@ -1,6 +1,6 @@
 # Java---Programa-o-Orientada-a-Objeto
 
-# Curso Java COMPLETO
+### Curso Java COMPLETO
 
 Dr. Nelio Alves
 # Percurso de formação
@@ -9,7 +9,7 @@ Dr. Nelio Alves
 
 ### Algoritmos usando Java (iniciante)
 
-#Algoritmos usando Java 
+## Algoritmos usando Java 
 
 - [ ] Conceitos de programação 
 - [ ] Estrutura sequencial
@@ -27,12 +27,12 @@ Dr. Nelio Alves
 - [ ] Herança e polimorfismo
 - [ ] Tratamento de exceções
 
-# PROJETO Sistema jogo de xadrez
+## PROJETO Sistema jogo de xadrez
 - [ ] Composição de objetos, herança, coleções, etc.
 - [ ] Desenvolvimento em camadas
 - [ ] Padrões de projetos
 
-# Java e Programação Orientada a Objetos (PARTE 2) Programação Funcional (lambda)
+## Java e Programação Orientada a Objetos (PARTE 2) Programação Funcional (lambda)
 - [ ] Trabalhando com arquivos
 - [ ] Interfaces
 - [ ] Generics, Set, Map
@@ -42,7 +42,7 @@ Dr. Nelio Alves
 - [ ] Interface Gráfica com JavaFX
 
 
-# PROJETO Aplicação desktop com JavaFX e banco de dados MySQL com JDBC
+## PROJETO Aplicação desktop com JavaFX e banco de dados MySQL com JDBC
 - [ ] Padrão MVC - Model View Controller
 - [ ] FXML, SceneBuilder
 - [ ] Tratamento de eventos de UI
@@ -50,7 +50,7 @@ Dr. Nelio Alves
 - [ ] Padrão Camadas
 - [ ] CRUD completo
 
-# PROJETO Web services com Spring Boot e JPA / Hibernate
+## PROJETO Web services com Spring Boot e JPA / Hibernate
 - [ ] Padrão camadas
 - [ ] Web e HTTP
 - [ ] REST / web services
@@ -62,7 +62,7 @@ Dr. Nelio Alves
 - [ ] CRUD completo
 - [ ] Tratamento de exceções
 
-# PROJETO Web services com Spring Boot e NoSQL (MongoDB)
+## PROJETO Web services com Spring Boot e NoSQL (MongoDB)
 - [ ] BÔNUS - Nivelamento NoSQL e MongoDB
 - [ ] Modelo de domínio: agregados e desnormalização
 - [ ] Spring Data MongoDB
