@@ -10,10 +10,10 @@ Dr. Nelio Alves
 ### Algoritmos usando Java (iniciante)
 
 Algoritmos usando Java 
-
--[] Conceitos de programação 
--[] Estrutura sequencial
-- [ ] Estrutura condicional
+--|--
+- [ ] |Conceitos de programação 
+- [ ] | Estrutura sequencial
+- [ ] | Estrutura condicional
 Estruturas repetitivas
 Introdução à linguagem Java
 Java e Programação
