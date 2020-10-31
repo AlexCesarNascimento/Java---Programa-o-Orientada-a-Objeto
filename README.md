@@ -5,19 +5,16 @@
 Dr. Nelio Alves
 # Percurso de formação
 
-## Lógica de Programação
-
-### Algoritmos usando Java (iniciante)
+## Lógica de Programação Algoritmos usando Java (iniciante)
 
 ## Algoritmos usando Java 
-
 - [ ] Conceitos de programação 
+- [ ] Introdução à linguagem Java
 - [ ] Estrutura sequencial
 - [ ] Estrutura condicional
 - [ ] Estruturas repetitivas
-- [ ] Introdução à linguagem Java
-- [ ] Java e Programação
-- [ ] Orientada a Objetos (PARTE 1)
+
+## Java e Programação Orientada a Objetos (PARTE 1)
 - [ ] Introdução à Programação Orientada a Objetos
 - [ ] Construtores, palavra this, sobrecarga, encapsulamento
 - [ ] Comportamento de memória, arrays, listas
